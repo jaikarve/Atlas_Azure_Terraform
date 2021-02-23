@@ -1,0 +1,6 @@
+*.tfstate
+*.tfstate.backup
+.terraform/
+peering-role.json
+terraform.tfvars
+AtlasSetup.sh
